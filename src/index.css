@@ -1,0 +1,60 @@
+html {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: url("/img/mario-bg.png") no-repeat;
+  background-size: 100%;
+  background-position: bottom;
+  background-color: #95e8f3;
+  min-height: 100%;
+}
+
+form {
+  padding: 0px 20px 0px 20px;
+}
+
+h6 {
+  margin: 20px 0;
+  font-weight: bold !important;
+}
+
+.section.contestant-details {
+  height: 35vh;
+}
+
+.section.contestant-list {
+  height: 60vh;
+}
+
+.col.s3.m3.l3 {
+  height: 15vh;
+}
+
+img.responsive-img {
+  height: 50% !important;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+label {
+  display: block;
+  text-align: center;
+}
+
+.video-container {
+  height: inherit !important;
+  padding-bottom: 0 !important;
+}
+
+iframe {
+  height: inherit !important;
+}
+
+.card.horizontal .card-image img {
+  height: -webkit-fill-available;
+}
