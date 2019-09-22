@@ -1,0 +1,24 @@
+.row.question-navigation {
+  margin-top: 10px;
+  text-align: center;
+}
+
+span.question-heading {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.col.s8.question-heading {
+  margin-top: 10px;
+}
+
+.quiz-question {
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+label.radio-buttons {
+  display: block;
+  color: #000;
+}

@@ -3,13 +3,13 @@ import "firebase/firestore";
 import "firebase/auth";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyBh-SpKn-2i2eMjmz0rB5nyFSrSKRcoerQ",
-  authDomain: "bigg-boss-tamil-584db.firebaseapp.com",
-  databaseURL: "https://bigg-boss-tamil-584db.firebaseio.com",
-  projectId: "bigg-boss-tamil-584db",
-  storageBucket: "bigg-boss-tamil-584db.appspot.com",
-  messagingSenderId: "128083349449",
-  appId: "1:128083349449:web:b78a26fe8b7767d5"
+  apiKey: "AIzaSyAZv9J5ycX5QLLjy4O7Q-xkBOYYUDAZMac",
+  authDomain: "comprehension-9241d.firebaseapp.com",
+  databaseURL: "https://comprehension-9241d.firebaseio.com",
+  projectId: "comprehension-9241d",
+  storageBucket: "comprehension-9241d.appspot.com",
+  messagingSenderId: "855510256419",
+  appId: "1:855510256419:web:3ab04a2841685783"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);

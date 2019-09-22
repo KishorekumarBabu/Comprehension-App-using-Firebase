@@ -1,0 +1,13 @@
+.row-passage {
+  margin-bottom: 0px !important;
+}
+
+.take-quiz-link {
+  color: #26a69a !important;
+}
+
+p.passage-content {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

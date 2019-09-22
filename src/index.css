@@ -6,10 +6,9 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: url("/img/mario-bg.png") no-repeat;
   background-size: 100%;
   background-position: bottom;
-  background-color: #95e8f3;
+  background-color: rgb(70, 68, 66);
   min-height: 100%;
 }
 
@@ -22,39 +21,33 @@ h6 {
   font-weight: bold !important;
 }
 
-.section.contestant-details {
-  height: 35vh;
+.waves-effect.waves-light.btn-small {
+  padding-right: 5px !important;
+  padding-left: 5px !important;
 }
 
-.section.contestant-list {
-  height: 60vh;
-}
-
-.col.s3.m3.l3 {
-  height: 15vh;
-}
-
-img.responsive-img {
-  height: 50% !important;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-label {
-  display: block;
+.text-center {
   text-align: center;
 }
 
-.video-container {
-  height: inherit !important;
-  padding-bottom: 0 !important;
+.hide {
+  display: none;
 }
 
-iframe {
-  height: inherit !important;
+.float-right {
+  float: right;
 }
 
-.card.horizontal .card-image img {
-  height: -webkit-fill-available;
+.float-left {
+  float: left;
+}
+
+.medium.material-icons {
+  font-size: 4rem;
+}
+
+.preloader-wrapper {
+  position: absolute !important;
+  top: 45%;
+  left: 45%;
 }

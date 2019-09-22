@@ -1,0 +1,24 @@
+.tabs.tabs-fixed-width {
+  position: fixed;
+}
+
+.tabs.tabs-fixed-width .tab a {
+  color: #26a69a;
+} /*Black color to the text*/
+
+.tabs.tabs-fixed-width .tab a:hover {
+  /* background-color: #26a69a; */
+  color: #26a69a;
+} /*Text color on hover*/
+
+.tabs.tabs-fixed-width .tab a.active {
+  color: #26a69a;
+} /* Background and text color when a tab is active */
+
+.tabs.tabs-fixed-width .indicator {
+  background-color: green;
+} /*Color of underline*/
+
+.row.tabs-passage {
+  margin-bottom: 0px;
+}

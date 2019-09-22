@@ -1,0 +1,15 @@
+.quiz-option {
+  margin-left: 20px;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.add-option-btn {
+  margin-left: 15px;
+}
+
+.delete-options {
+  display: flex;
+}

@@ -1,0 +1,25 @@
+.row.question-navigation {
+  margin-top: 10px;
+  text-align: center;
+}
+
+span.question-heading {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.col.s8.question-heading {
+  margin-top: 10px;
+}
+
+.material-icons.correct {
+  position: relative;
+  top: 6px;
+  color: green;
+}
+
+.material-icons.incorrect {
+  position: relative;
+  top: 6px;
+  color: red;
+}

@@ -1,0 +1,9 @@
+p.passage-content {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-title {
+  display: inline !important;
+}
